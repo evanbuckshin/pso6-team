@@ -1,1 +1,1 @@
-# ps06-team
+# pso6-team
